@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.1.0.3');
+  api.versionsFrom('1.3.5');
   api.addFiles('material-icons.js');
   api.addFiles('material-icons.css');
 });
